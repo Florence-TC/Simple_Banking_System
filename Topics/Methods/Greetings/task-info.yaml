@@ -1,0 +1,17 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    class Person:
+        def __init__(self, name):
+            self.name = name
+
+        # create the method greet here
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6935#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Wed, 02 Jun 2021 09:43:56 UTC
+record: -1
